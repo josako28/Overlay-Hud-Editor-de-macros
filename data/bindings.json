@@ -1,1 +1,139 @@
-{"L2":[{"Token":"UP\u002BRIGHT","StartMs":2028,"DetectionMs":245,"NoInputMs":0},{"Token":"r1","StartMs":2062,"DetectionMs":170,"NoInputMs":0},{"Token":"DP_RIGHT","StartMs":2274,"DetectionMs":934,"NoInputMs":0},{"Token":"A","StartMs":2817,"DetectionMs":197,"NoInputMs":544},{"Token":"UP\u002BRIGHT","StartMs":3209,"DetectionMs":283,"NoInputMs":0},{"Token":"r1","StartMs":3299,"DetectionMs":192,"NoInputMs":90},{"Token":"DP_RIGHT","StartMs":3492,"DetectionMs":784,"NoInputMs":0},{"Token":"A","StartMs":3936,"DetectionMs":128,"NoInputMs":444},{"Token":"UP\u002BRIGHT","StartMs":4277,"DetectionMs":216,"NoInputMs":0},{"Token":"r1","StartMs":4317,"DetectionMs":174,"NoInputMs":40},{"Token":"DP_RIGHT","StartMs":4494,"DetectionMs":789,"NoInputMs":0},{"Token":"A","StartMs":4947,"DetectionMs":112,"NoInputMs":453},{"Token":"UP\u002BRIGHT","StartMs":5285,"DetectionMs":47,"NoInputMs":0},{"Token":"r1","StartMs":5331,"DetectionMs":147,"NoInputMs":0},{"Token":"DP_UP","StartMs":5333,"DetectionMs":75,"NoInputMs":0},{"Token":"UP\u002BRIGHT","StartMs":5408,"DetectionMs":70,"NoInputMs":0},{"Token":"DP_RIGHT","StartMs":5479,"DetectionMs":806,"NoInputMs":0},{"Token":"A","StartMs":5916,"DetectionMs":143,"NoInputMs":437}]}
+{
+  "Xbox": {
+    "R1": [
+      {
+        "Token": "LST_LEFT",
+        "StartMs": 0,
+        "DetectionMs": 45,
+        "NoInputMs": 0,
+        "Dx": 0,
+        "Dy": 0,
+        "VecX": 0,
+        "VecY": 0,
+        "Magnitude": 0,
+        "AbsX": 0,
+        "AbsY": 0
+      },
+      {
+        "Token": "L_DIAG_UL",
+        "StartMs": 49,
+        "DetectionMs": 74,
+        "NoInputMs": 0,
+        "Dx": 0,
+        "Dy": 0,
+        "VecX": 0,
+        "VecY": 0,
+        "Magnitude": 0,
+        "AbsX": 0,
+        "AbsY": 0
+      },
+      {
+        "Token": "LST_UP",
+        "StartMs": 124,
+        "DetectionMs": 30,
+        "NoInputMs": 0,
+        "Dx": 0,
+        "Dy": 0,
+        "VecX": 0,
+        "VecY": 0,
+        "Magnitude": 0,
+        "AbsX": 0,
+        "AbsY": 0
+      },
+      {
+        "Token": "L_DIAG_UR",
+        "StartMs": 155,
+        "DetectionMs": 29,
+        "NoInputMs": 0,
+        "Dx": 0,
+        "Dy": 0,
+        "VecX": 0,
+        "VecY": 0,
+        "Magnitude": 0,
+        "AbsX": 0,
+        "AbsY": 0
+      },
+      {
+        "Token": "LST_RIGHT",
+        "StartMs": 185,
+        "DetectionMs": 58,
+        "NoInputMs": 0,
+        "Dx": 0,
+        "Dy": 0,
+        "VecX": 0,
+        "VecY": 0,
+        "Magnitude": 0,
+        "AbsX": 0,
+        "AbsY": 0
+      },
+      {
+        "Token": "L_DIAG_DR",
+        "StartMs": 243,
+        "DetectionMs": 80,
+        "NoInputMs": 0,
+        "Dx": 0,
+        "Dy": 0,
+        "VecX": 0,
+        "VecY": 0,
+        "Magnitude": 0,
+        "AbsX": 0,
+        "AbsY": 0
+      },
+      {
+        "Token": "LST_DOWN",
+        "StartMs": 323,
+        "DetectionMs": 78,
+        "NoInputMs": 0,
+        "Dx": 0,
+        "Dy": 0,
+        "VecX": 0,
+        "VecY": 0,
+        "Magnitude": 0,
+        "AbsX": 0,
+        "AbsY": 0
+      },
+      {
+        "Token": "L_DIAG_DL",
+        "StartMs": 402,
+        "DetectionMs": 30,
+        "NoInputMs": 0,
+        "Dx": 0,
+        "Dy": 0,
+        "VecX": 0,
+        "VecY": 0,
+        "Magnitude": 0,
+        "AbsX": 0,
+        "AbsY": 0
+      },
+      {
+        "Token": "LST_LEFT",
+        "StartMs": 433,
+        "DetectionMs": 44,
+        "NoInputMs": 0,
+        "Dx": 0,
+        "Dy": 0,
+        "VecX": 0,
+        "VecY": 0,
+        "Magnitude": 0,
+        "AbsX": 0,
+        "AbsY": 0
+      },
+      {
+        "Token": "LST_UP",
+        "StartMs": 477,
+        "DetectionMs": 94,
+        "NoInputMs": 0,
+        "Dx": 0,
+        "Dy": 0,
+        "VecX": 0,
+        "VecY": 0,
+        "Magnitude": 0,
+        "AbsX": 0,
+        "AbsY": 0
+      }
+    ]
+  },
+  "PS4": {},
+  "PS5": {},
+  "KeyboardMouse": {}
+}
