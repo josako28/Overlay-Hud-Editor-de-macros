@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v10.0": {
       "Overlay HUD+Editor/1.0.0": {
         "dependencies": {
+          "GamepadHud.Core": "1.0.0",
           "Nefarius.ViGEm.Client": "1.21.256",
           "SharpDX": "4.2.0",
           "SharpDX.XInput": "4.2.0"
@@ -42,6 +43,17 @@
             "fileVersion": "4.2.0.0"
           }
         }
+      },
+      "GamepadHud.Core/1.0.0": {
+        "dependencies": {
+          "Nefarius.ViGEm.Client": "1.21.256"
+        },
+        "runtime": {
+          "GamepadHud.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -71,6 +83,11 @@
       "sha512": "sha512-mH3soea+aVUaTuFrkwx+zohklDvCczcgtuTiZJbOCyS5GZ/F9se4BsRJ86xTA9baf0drXYbZQj152PN7lnjiwg==",
       "path": "sharpdx.xinput/4.2.0",
       "hashPath": "sharpdx.xinput.4.2.0.nupkg.sha512"
+    },
+    "GamepadHud.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
